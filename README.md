@@ -1,0 +1,1 @@
+Este repositório é destinado ao desenvolvimento do projeto da FreeCodeCampus para certificação de desenvolvimento responsivo :DD
